@@ -27,4 +27,4 @@ This repository contains my step by step learning of java coverning fundamentals
 - Calculating the marks of 5 subjects and find its CGPA
 
 ## GOAL
-To build strong Java fundamentals and grow into a full stack developer with generative AI
+To build strong Java fundamentals and grow into a Full stack developer with Generative AI
