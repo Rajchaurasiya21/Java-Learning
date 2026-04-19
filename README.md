@@ -7,7 +7,7 @@ This repository contains my step by step learning of java coverning fundamentals
 ### DAY 1-basics
 
 - Hello world 
-- Varriinables
+- Variables
 - Sum of Numbers
 ### DAY 2- Data Types
 -int,char,float,double
