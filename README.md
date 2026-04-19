@@ -4,7 +4,7 @@ This repository contains my step by step learning of java coverning fundamentals
 
 ## Topics Covered
 
-### DAY 1-basics
+### DAY 1-Basics
 
 - Hello World 
 - Variables
@@ -13,7 +13,7 @@ This repository contains my step by step learning of java coverning fundamentals
 -int,char,float,double
 - Printing Values
 
-### Day 3- input
+### Day 3- Input
 - Scanner( input from user)
 
 ### Day4- Questions 
