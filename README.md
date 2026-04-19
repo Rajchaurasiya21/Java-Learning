@@ -16,7 +16,7 @@ This repository contains my step by step learning of java coverning fundamentals
 ### Day 3- input
 - Scanner( input from user)
 
-### Day4-Input
+### Day4- Questions 
 - Subtraction of floating number Float by Scanner statement.
 - True false of any number as including Int or Float
   as suppose we taking Int and you want to print
