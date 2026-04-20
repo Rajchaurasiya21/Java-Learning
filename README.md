@@ -31,10 +31,12 @@ This repository contains my step by step learning of java coverning fundamentals
 - Practiced Arithemetic Opreators (+,*,/,%,++,%)
 - Learned Logical Opreators(<,>,==,!=)
 - Learned logical Opreators(&&,||,!)
+- Precendce And Associativity ( logic left to right and right to left)
 - Solved problems
-   - Range Checking
+   - Greetings
    - Currency Conversion (INR TO USD)
    - Temperature Conversion ( Celsius to Fahrenhiet )
+   - Range Checking
 
 ## GOAL
 To build strong Java fundamentals and grow into a Full stack developer with Generative AI
