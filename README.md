@@ -38,5 +38,25 @@ This repository contains my step by step learning of java coverning fundamentals
    - Temperature Conversion ( Celsius to Fahrenhiet )
    - Range Checking
 
+### Day-6 Increment and Decrement , Data Types Return and String
+- Practiced Data Types Return
+   - R = b+s= integar      (here: b=byte,s=short,i=integar,f=float,d=double,l=long,c=charchter)
+   - R = s+i= integar       
+   - R = l+b= float
+   - R = c+i= float
+   - R = c+s= integar
+   - R = l+d= integar
+- Increment and Decrement Opraetors
+  - Pre inc
+  - Post inc
+  - Pre dec
+  - Post dec
+- String Basic
+
+
+
+
+
+
 ## GOAL
 To build strong Java fundamentals and grow into a Full stack developer with Generative AI
