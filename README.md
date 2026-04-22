@@ -53,6 +53,14 @@ This repository contains my step by step learning of java coverning fundamentals
   - Post dec
 - String Basic
 
+### Day-7 String Methods and Conditional Operators 
+- Practiced All String Methods( More than 10)
+- Did Some queestions on Conditional Operators
+  - Checking Biggest Number
+  - Voter ID card egiblity
+- Logical Operators
+- Switch Case
+
 
 
 
