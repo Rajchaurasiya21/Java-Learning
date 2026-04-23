@@ -61,6 +61,12 @@ This repository contains my step by step learning of java coverning fundamentals
 - Logical Operators
 - Switch Case
 
+### Day-8 Loops
+- While
+- Do-While
+- FOr
+- Break Statement
+
 
 
 
