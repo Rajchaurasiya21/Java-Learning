@@ -4,19 +4,19 @@ This repository contains my step by step learning of java coverning fundamentals
 
 ## Topics Covered
 
-### DAY 1-Basics
+### Basics
 
 - Hello World 
 - Variables
 - Sum of Numbers
-### DAY 2- Data Types
+### Data Types
 -int,char,float,double
 - Printing Values
 
-### Day 3- Input
+### User-Input
 - Scanner( input from user)
 
-### Day4- Questions 
+### Questions 
 - Subtraction of floating number Float by Scanner statement.
 - True false of any number as including Int or Float
   as suppose we taking Int and you want to print
@@ -26,7 +26,7 @@ This repository contains my step by step learning of java coverning fundamentals
 - Calculating the marks of 5 subjects and find its and total percentage
 - Calculating the marks of 5 subjects and find its CGPA
 
-### DAY-5 Opreators and Basic Logic
+### Opreators and Basic Logic
 - Assignment Opreators(-,+,=)
 - Practiced Arithemetic Opreators (+,*,/,%,++,%)
 - Learned Logical Opreators(<,>,==,!=)
@@ -38,7 +38,7 @@ This repository contains my step by step learning of java coverning fundamentals
    - Temperature Conversion ( Celsius to Fahrenhiet )
    - Range Checking
 
-### Day-6 Increment and Decrement , Data Types Return and String
+### Increment and Decrement , Data Types Return and String
 - Practiced Data Types Return
    - R = b+s= integar      (here: b=byte,s=short,i=integar,f=float,d=double,l=long,c=charchter)
    - R = s+i= integar       
@@ -53,7 +53,7 @@ This repository contains my step by step learning of java coverning fundamentals
   - Post dec
 - String Basic
 
-### Day-7 String Methods and Conditional Operators 
+### String Methods and Conditional Operators 
 - Practiced All String Methods( More than 10)
 - Did Some queestions on Conditional Operators
   - Checking Biggest Number
@@ -61,11 +61,14 @@ This repository contains my step by step learning of java coverning fundamentals
 - Logical Operators
 - Switch Case
 
-### Day-8 Loops
+### Loops
 - While
 - Do-While
 - FOr
 - Break Statement
+
+### Questions
+- Conditionals Based
 
 
 
